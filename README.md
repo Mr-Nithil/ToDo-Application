@@ -1,4 +1,4 @@
-# todo_app
+# ToDo Application
 
 This is a small ToDo application developed using flutter to manage daily tasks.
 
